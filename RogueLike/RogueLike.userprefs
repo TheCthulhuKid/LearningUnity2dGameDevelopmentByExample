@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\ClassicArcade\Assets\Code\Spongy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\9046OT_Code&amp;ColoredImages\Chapter08\Endless Runner\Assets\Obstacle.js">
     <Files>
-      <File FileName="..\ClassicArcade\Assets\Code\Spongy.cs" Line="40" Column="64" />
+      <File FileName="..\..\9046OT_Code&amp;ColoredImages\Chapter08\Endless Runner\Assets\Ninja.js" Line="4" Column="7" />
+      <File FileName="..\..\9046OT_Code&amp;ColoredImages\Chapter08\Endless Runner\Assets\Obstacle.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
