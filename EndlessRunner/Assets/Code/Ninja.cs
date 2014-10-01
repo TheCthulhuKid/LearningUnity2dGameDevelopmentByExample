@@ -28,10 +28,13 @@ public class Ninja : MonoBehaviour
 
 	void MoveCharacter()
 	{
-		//	Here I have simplified the statements to avoid the multiple if/else
-		jump = Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow);
+		//	I have simplified the statements to avoid the multiple if/else
+		jump = Input.GetKey(KeyCode.W);
 		animator.SetBool("jump", jump);
-		slide = Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow);
+
+		slide = Input.GetKey(KeyCode.S);
 		animator.SetBool("slide", slide);
+
+		animator.SetBool("run", !slide && !jump);
 	}
 }

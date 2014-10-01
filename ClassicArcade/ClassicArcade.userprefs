@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Code\Spongy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\EndlessRunner\Assets\Code\Ninja.cs">
     <Files>
-      <File FileName="Assets\Code\Spongy.cs" Line="40" Column="64" />
+      <File FileName="..\EndlessRunner\Assets\Code\Ninja.cs" Line="31" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
