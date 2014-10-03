@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{0EEE39A3-F12D-E337-4D30-227D53089577}") = "PhysicsFun", "Assembly-CSharp.csproj", "{73D8A470-111A-6D03-D193-1851E7639BCB}"
+Project("{51D5F33A-6407-842E-4657-C93F68C21C37}") = "SpaceBuddy", "Assembly-CSharp-vs.csproj", "{BD6A54BF-2AE7-9CFD-9E07-E4216C2A7972}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{73D8A470-111A-6D03-D193-1851E7639BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73D8A470-111A-6D03-D193-1851E7639BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73D8A470-111A-6D03-D193-1851E7639BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73D8A470-111A-6D03-D193-1851E7639BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD6A54BF-2AE7-9CFD-9E07-E4216C2A7972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6A54BF-2AE7-9CFD-9E07-E4216C2A7972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6A54BF-2AE7-9CFD-9E07-E4216C2A7972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6A54BF-2AE7-9CFD-9E07-E4216C2A7972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -24,19 +24,6 @@ Global
 		$1.inheritsSet = null
 		$1.scope = text/x-csharp
 		$0.CSharpFormattingPolicy = $2
-		$2.BeforeMethodCallParentheses = False
-		$2.BeforeIndexerDeclarationBracket = False
-		$2.BeforeDelegateDeclarationParentheses = False
-		$2.NewParentheses = False
-		$2.IfParentheses = False
-		$2.WhileParentheses = False
-		$2.ForParentheses = False
-		$2.ForeachParentheses = False
-		$2.CatchParentheses = False
-		$2.SwitchParentheses = False
-		$2.LockParentheses = False
-		$2.UsingParentheses = False
-		$2.SpacesBeforeBrackets = False
 		$2.inheritsSet = Mono
 		$2.inheritsScope = text/x-csharp
 		$2.scope = text/x-csharp
